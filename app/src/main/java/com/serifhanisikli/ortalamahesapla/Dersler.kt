@@ -1,6 +1,6 @@
-package com.emrealtunbilek.ortalamahesapla
+package com.serifhanisikli.ortalamahesapla
 
 /**
- * Created by Emre on 16.12.2017.
+ * Created by Þerifhan on 11.2018
  */
 data class Dersler(var dersAdi:String, var dersKredi:String, var dersHarfNot : String) {}

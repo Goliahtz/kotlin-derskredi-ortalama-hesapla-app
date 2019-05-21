@@ -1,4 +1,4 @@
-package com.emrealtunbilek.ortalamahesapla
+package com.serifhanisikli.ortalamahesapla
 
 import org.junit.Test
 

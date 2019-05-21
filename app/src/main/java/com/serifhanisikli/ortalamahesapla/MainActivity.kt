@@ -1,4 +1,4 @@
-package com.emrealtunbilek.ortalamahesapla
+﻿package com.serifhanisikli.ortalamahesapla
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
